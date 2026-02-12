@@ -13,6 +13,6 @@ The goal is not just to write code but to demonstrate a clear understanding of h
 
 >Tech Stack
 
-  -Python 3.x
+  -Python 3.14.3
   
   -Standard Library Only (No unnecessary dependencies)
